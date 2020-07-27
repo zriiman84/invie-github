@@ -1,2 +1,2 @@
 # invie-github
-Tus mejores guitarras - cool
+Tus mejores guitarras - cool @platzi / @zriiman84
