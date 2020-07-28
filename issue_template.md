@@ -1,4 +1,4 @@
 ## ¿Cómo puedo replicar el problema?
-Por favor, explícanos cóo replicar el problema paso a paso y en qué sistema operativo ocurre.
+Por favor, explícanos cómo replicar el problema paso a paso y en qué sistema operativo ocurre.
 ## ¿En qué versión de invie ocurre?
-Si este problea ocurre en todas las versiones, por favor también mencionarlo.
+Si este problema ocurre en todas las versiones, por favor también mencionarlo.
